@@ -1,2 +1,2 @@
 # objectrecognition
-Deep Learinng Object Recognition
+Deep Learning Object Recognition
